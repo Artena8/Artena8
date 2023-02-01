@@ -23,3 +23,5 @@ Etudiante en informatique à l'Université de Technologie de Belfort-Montbéliar
 - Figma
 
 Je suis toujours à la recherche de nouveaux défis et opportunités pour développer mes compétences en programmation et en développement de logiciels. N'hésitez pas à me contacter si vous avez besoin d'aide ou si vous avez des projets intéressants à partager !
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artena8)](https://github.com/anuraghazra/github-readme-stats)

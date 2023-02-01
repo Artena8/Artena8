@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello There ~
+# Héléna Chevalier
 
-<!--
-**Artena8/Artena8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Etudiante en informatique à l'Université de Technologie de Belfort-Montbéliard (BUT), je suis passionnée par le développement de logiciels et la résolution de problèmes complexes.
 
-Here are some ideas to get you started:
+- 😄 Pronoms :  elle/she
+- 🌱 Mon jeux favori est Coral Island
+- 🔭 Je travaille sur divers projets (principalement un site web en lien avec l'UNESCO)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Langages de programmation utilisés
+
+- 🔥Python
+- Java
+- 🆘 C
+- HTML/CSS
+- JavaScript
+
+## Outils
+
+- GitHub
+- Visual Studio Code
+- Eclipse
+- Figma
+
+Je suis toujours à la recherche de nouveaux défis et opportunités pour développer mes compétences en programmation et en développement de logiciels. N'hésitez pas à me contacter si vous avez besoin d'aide ou si vous avez des projets intéressants à partager !

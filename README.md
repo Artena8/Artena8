@@ -5,7 +5,7 @@ Etudiante en informatique à l'Université de Technologie de Belfort-Montbéliar
 
 - 😄 Pronoms :  elle/she
 - 🌱 Mon jeux favori est Coral Island
-- 🔭 Je travaille sur divers projets (principalement un site web en lien avec l'UNESCO)
+- 🔭 Je travaille sur divers projets informatiques
 
 ## Langages de programmation utilisés
 
@@ -14,6 +14,7 @@ Etudiante en informatique à l'Université de Technologie de Belfort-Montbéliar
 - 🆘 C
 - HTML/CSS
 - JavaScript
+- C#
 
 ## Outils
 

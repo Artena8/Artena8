@@ -29,7 +29,7 @@ Je suis toujours à la recherche de nouveaux défis et opportunités pour dével
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artena8)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=slateorange&hide_border=false&username=Artena8" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cyan&hide_border=false&username=Artena8" height="150" alt="languages graph"  />
 </div>
 
 

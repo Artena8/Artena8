@@ -1,7 +1,7 @@
 # Hello There ~
 # Héléna Chevalier
 
-Etudiante en informatique à l'Université de Technologie de Belfort-Montbéliard (BUT), je suis passionnée par le développement de logiciels et la résolution de problèmes complexes.
+Etudiante en informatique à l'Université de Technologie de Troyes (UTT), je suis passionnée par le développement de logiciels et la résolution de problèmes complexes.
 
 - 😄 Pronoms :  elle/she
 - 🌱 Mon jeux favori est Coral Island

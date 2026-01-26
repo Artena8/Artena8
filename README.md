@@ -2,8 +2,8 @@
 ## Héléna Chevalier
 
 :mortar_board: Étudiante en informatique à l’**Université de Technologie de Troyes (UTT)**  
-:bulb: je me forme à l’ingénierie des **systèmes d’information** et au **développement logiciel**. 
-:telescope: À long terme, je souhaite évoluer vers un rôle mêlant **développement, architecture et vision produit**,
+:bulb: je me forme à l’ingénierie des **systèmes d’information** et au **développement logiciel**.
+:bulb: À long terme, je souhaite évoluer vers un rôle mêlant **développement, architecture et vision produit**,
 où je peux à la fois concevoir, implémenter et faire évoluer des solutions utiles et maintenables.
 
 ---
